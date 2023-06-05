@@ -2,7 +2,8 @@
 import "./style.css"
 
 const Console = () => {
-  console.log("Hire me, please....");
+
+
   return (
     <div id="console">
       <span id="a">danniel@cristie</span>:<span id="b">~</span><span id="c">$</span> cd Cristie/About<br />

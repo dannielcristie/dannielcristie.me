@@ -25,8 +25,7 @@ const Console = () => {
         I'm a web developer from São Luis in Brazil.
         <br /><br />
         I'd describe my self as a Back end focused, full stack developer. Meaning I'm most comfortable with Back end
-        technologies and frameworks such as HTML, CSS, JavaScript, MongoDB, PostgreSQL, Node.js. I'm also comfortable
-        with coding in Ruby and Ruby on Rails
+        technologies and frameworks such as Java, Javascript, Ruby, MongoDB, PostgreSQL, Spring boot, Ruby on Rails and docker.
         <br /><br />
 
         To keep up to date with my work, you can check out GitHub. I'm trying to constantly learn and develop my
